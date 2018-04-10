@@ -1,0 +1,3 @@
+rootProject.name = 'reactagenda'
+
+include ':app'
